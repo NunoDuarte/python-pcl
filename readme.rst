@@ -1,4 +1,9 @@
-**⚠⚠ A new maintainer for this library is sought. Please see https://github.com/strawlab/python-pcl/issues/395. ⚠⚠**
+I've forked this repo:
+This release has been tested on Linux Ubuntu 20.04 with
+
+ * Python 3.8.10
+ * pcl 1.9 and pcl 1.11(apt install)
+ * Cython == 0.29.33
 
 .. raw:: html
 
