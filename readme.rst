@@ -1,3 +1,5 @@
+MADE CHANGES TO WORK ON UBUNTU 20.04
+
 **⚠⚠ A new maintainer for this library is sought. Please see https://github.com/strawlab/python-pcl/issues/395. ⚠⚠**
 
 .. raw:: html
